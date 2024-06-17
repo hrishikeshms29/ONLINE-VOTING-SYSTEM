@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "927898726225",
+    "project_id": "electro-74b52",
+    "storage_bucket": "electro-74b52.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:927898726225:android:1b12d8b4e95565fcdc6d70",
+        "android_client_info": {
+          "package_name": "com.example.electro_vote"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDnoLicQvbt39vtwfPOuvgN2ulTooQLSMA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
